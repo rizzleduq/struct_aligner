@@ -22,7 +22,7 @@ void pack_array_of_data_type_size(data_size arr[], int n) {
 	arr[2].size = sizeof(float);
 	arr[3].name_of_type = "bool";
 	arr[3].size = sizeof(bool);
-	arr[4].name_of_type = "char";
+	arr[4].name_of_type = "char233";
 	arr[5].size = sizeof(char);
 }
 
