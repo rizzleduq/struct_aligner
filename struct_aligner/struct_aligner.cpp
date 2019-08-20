@@ -16,6 +16,9 @@ struct test{
 		int a;
 		int b;
 };
+struct pull{
+	int pull;
+};
 
 void pack_array_of_data_type_size(data_size arr[], int n) {
 	arr[0].name_of_type = "int";
